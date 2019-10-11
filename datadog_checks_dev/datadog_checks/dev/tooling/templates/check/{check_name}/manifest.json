@@ -6,7 +6,7 @@
   "metric_prefix": "{check_name}.",
   "metric_to_check": "",
   "creates_events": false,
-  "short_description": "",
+  "short_description": "{integration_name}",
   "guid": "{guid}",
   "support": "{support_type}",
   "supported_os": [

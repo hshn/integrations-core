@@ -2,7 +2,9 @@
 
 
 def test_check(aggregator, instance):
-    check = {check_class}('{check_name}', {{}}, {{}})
-    check.check(instance)
+    # TODO: Add tests
+    # check = {check_class}('{check_name}', {{}}, {{}})
+    # check.check(instance)
+    print({check_class})  # import file for minimal check
 
     aggregator.assert_all_metrics_covered()
